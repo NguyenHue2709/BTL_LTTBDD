@@ -1,2 +1,1 @@
-# BTL_LTTBDD
-bai tap nhom
+# ltdd-TH71-Nhom11
